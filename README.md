@@ -1,3 +1,19 @@
+Для запуска программы необходимо выполнить команды:
+
+```
+git clone https://github.com/KnightOfMelons/Balancing-algorithms-for-classes.git
+```
+
+Затем установить всё необходимое:
+
+```
+pip install -r requirements.txt
+```
+
+После чего запускаете файл main.py
+
+### Задание
+
 Применить к набору данных алгоритмы балансировки классов:
 
 1 - SMOTE 
