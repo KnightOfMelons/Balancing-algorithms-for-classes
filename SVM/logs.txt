@@ -1,0 +1,13 @@
+1 - SVM,
+2 - KNN,
+3 - Random forest
+0 - Выход
+Ваш выбор: 1
+Запуск SVM...
+
+Лучшие параметры: {'svc__C': 0.1, 'svc__degree': 2, 'svc__gamma': 'scale', 'svc__kernel': 'linear'}
+
+[Без балансировки] Точность: 0.8209, Precision: 0.8311, Recall: 0.8209, F1-мера: 0.8192
+[SMOTE] Точность: 0.8235, Precision: 0.8339, Recall: 0.8235, F1-мера: 0.8221
+[Borderline SMOTE] Точность: 0.8235, Precision: 0.8339, Recall: 0.8235, F1-мера: 0.8221
+[Borderline SMOTE 2] Точность: 0.8088, Precision: 0.8225, Recall: 0.8088, F1-мера: 0.8068

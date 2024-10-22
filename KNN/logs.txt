@@ -1,0 +1,7 @@
+Лучшие параметры: {'kneighborsclassifier__metric': 'euclidean', 'kneighborsclassifier__n_neighbors': 5,
+'kneighborsclassifier__weights': 'distance'}
+
+[Без балансировки] Точность: 1.0000, Precision: 1.0000, Recall: 1.0000, F1-мера: 1.0000
+[SMOTE] Точность: 1.0000, Precision: 1.0000, Recall: 1.0000, F1-мера: 1.0000
+[Borderline SMOTE] Точность: 1.0000, Precision: 1.0000, Recall: 1.0000, F1-мера: 1.0000
+[Borderline SMOTE 2] Точность: 1.0000, Precision: 1.0000, Recall: 1.0000, F1-мера: 1.0000

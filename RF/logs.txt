@@ -1,0 +1,10 @@
+Запуск Random Forest...
+C:\Users\golde\OneDrive\Рабочий стол\MIREA\Интеллектульные системы и технологии\1 семестр\Практическое задание 4\Practice 4\.venv\Lib\site-packages\numpy\ma\core.py:2846: RuntimeWarning: invalid value encountered in cast
+  _data = np.array(data, dtype=dtype, copy=copy,
+
+Лучшие параметры: {'randomforestclassifier__bootstrap': True, 'randomforestclassifier__max_depth': 20, 'randomforestclassifier__min_samples_leaf': 2, 'randomforestclassifier__min_samples_split': 2, 'randomforestclassifier__n_estimators': 100}
+
+[Без балансировки] Точность: 0.9851, Precision: 0.9855, Recall: 0.9851, F1-мера: 0.9851
+[SMOTE] Точность: 0.9853, Precision: 0.9857, Recall: 0.9853, F1-мера: 0.9853
+[Borderline SMOTE] Точность: 0.9853, Precision: 0.9857, Recall: 0.9853, F1-мера: 0.9853
+[Borderline SMOTE 2] Точность: 0.9853, Precision: 0.9857, Recall: 0.9853, F1-мера: 0.9853
